@@ -1,0 +1,1 @@
+<h2>Click vào  <a href="{{$route}}">đây</a>để lấy lại mật khẩu!</h2>
