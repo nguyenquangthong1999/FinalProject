@@ -1,2 +1,6 @@
-# FinalProject
-This is my year-end project at Greenwich University. The product is a website that provides dietary supplements and minerals for users during the COVID-19 epidemic season.
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+
+Final Project - University of Greenwich - Da Nang Campus
+
+# Author
+  - Nguyen Quang Thong - University of Greenwich - Da Nang Campus
